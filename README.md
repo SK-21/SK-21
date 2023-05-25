@@ -1,3 +1,4 @@
+![SAPNA Github Profile Image](https://cdn.discordapp.com/attachments/1110569329541513277/1111152485017595994/Hello_my_name_is_Sapna_K..jpg)
 - 👋 Hi, I’m Sapna Kashyap.
 - 👀 I’m interested in Front-end development, UI.
 - 🌱 I’m currently learning React.
